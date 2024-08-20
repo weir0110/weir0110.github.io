@@ -140,34 +140,3 @@ languages:
 ## Hello there! 👋  Welcome to Weir’s Homepage
 
 I am a graduate student. I am interested in algebraic coding and privacy protection issues in novel scenarios.
-
-
-
-<!-- *beep-boop* 
-
-Hello world 👋 This is **Juin Yau Lim (林俊耀)**. 
-
-I am interested on providing sustainable solution to complex engineering problem with my substantial background in Chemical Engineering **(*M.Eng*)** and Environmental Engineering **(*PhD*)**. Devoted to bridge the gap between research and industry.
-
-You can find my [publications](./publication/), [recent post](./post/), and [one page résumé](/uploads/resume_s.pdf) in this webpage.
-
-If you have more time, feel free to read my [full CV](/uploads/resume.pdf)! 
-
-**Fun-fact:**
-1. Enjoy playing with numbers _aka_ **Data Analytics**.             📈
-2. Juggling around **AI**, **modeling**, and **optimization**.      🖥️
-3. **Polyglot**, proficient in multiple languages. Try me!          🗣️
-4. 100% **Cat** friendly                                            🐱
-
-**Daily Interest & Hobbies**
-- Web 3, Blockchain, Hiking, Squash, & Traveling 
-
-**Summary:**
-Never the smartest mind in class but always the one not afraid of trying new things. 
-
-Thanks for spending time to understand me! *Ciao*
-
-**"Now, Good Night. And If There's An Apocalypse, Good Luck!"** 
-by _Sheldon Cooper_ from [The Big Bang Theory](https://www.warnerbros.com/tv/big-bang-theory)
-
-{style="text-align: justify;"} -->
