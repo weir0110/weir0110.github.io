@@ -39,7 +39,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - lifes
         author: ""
         category: ""
         tag: ""
