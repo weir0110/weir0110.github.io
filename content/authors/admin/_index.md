@@ -1,37 +1,41 @@
 ---
 # Display name
-title: Juin Yau Lim 
+title: SHI-ZE WANG
+
+# Name pronunciation (optional)
+# name_pronunciation:  SHI-ZE WANG
 
 # Full name (for SEO)
-first_name: Juin Yau
-last_name: Lim 
+first_name: SHI-ZE
+last_name: WANG
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
-role: Ph.D, M.Eng, AMIChemE (he/him/his)
+role: Postgraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Korea University
-    url: https://www.korea.ac.kr/
+  - name: XIDIAN UNIVERSITY
+    url: https://en.xidian.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate sustainable practitioner that seeks solutions with modern approaches.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Renewable Energy
-  - Process System Engineering
-  - Waste Management
-  - Wastewater Treatment
-  - Air Pollution Control
+  - Algebraic Coding
+  - Cryptography
+  - Service computing
+  - Privacy Protection
 
 # Education to show in About widget
 education:
