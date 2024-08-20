@@ -56,13 +56,13 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      # view: compact
+      # columns: '2'
        # Choose a layout view
-      # view: date-title-summary
-      # # Reduce spacing
-      # spacing:
-      #   padding: [0, 0, 0, 0]
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
 
 
   # - block: collection
