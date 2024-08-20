@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Juin Yau Lim # Website name
-baseURL: 'https://jy-lim.com/' # Website URL
+title: Weir's Homepage # Website name
+baseURL: 'https://wweiwei.com/' # Website URL
 
 ############################
 ## LANGUAGE
