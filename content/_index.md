@@ -25,12 +25,14 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: papers
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        You can filter all publications by clicking [here](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   You can filter all publications by clicking [here](./publication/).
+      #   {{% /callout %}}
+      text: ""
       filters:
         folders:
           - publication
@@ -40,7 +42,7 @@ sections:
       view: citation
 
   - block: collection
-    id: posts
+    id: life
     content:
       title: Recent Life Snapshot
       subtitle: ''
