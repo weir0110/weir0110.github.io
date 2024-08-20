@@ -10,6 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  color: emerald
 
 # SEO
 
@@ -18,9 +19,9 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'This is Juin Yau Lim.'
+    description: 'This is Weir.'
   analytics:
-    google_analytics: 'G-DEZGH045GX'
+    google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -44,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Weir. Published with Hugo Blox Builder - {license}'
+    notice: '© {year} Weir. Published with Hugo Blox Builder.'
     license:
       enable: true
       allow_derivatives: false
