@@ -40,12 +40,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Applied Environmental Science and Engineering
-      institution: Kyung Hee University (Global)
-      year: 2023
-    - course: M.Eng in Chemical Engineering & Environmental Engineering
-      institution: University of Nottingham
-      year: 2018
+    - course: PhD student in Cryptography
+      institution: XDU
+      year: Sept.2021-Present
+    - course: MSc in Fundamental Mathematics
+      institution: LNU
+      year: Sept.2018-Jun.2021
+    - course: BSc in Fundamental Mathematics
+      institution: BCNU
+      year: Sept.2014-Jun.2018
 
 # Social/Academic Networking
 social:
@@ -62,16 +65,87 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0002-2691-4439
   # Link to a PDF of your resume/CV.
-  - icon: cv
-    icon_pack: ai
-    link: './uploads/resume.pdf'
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: './uploads/resume.pdf'
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+
+work:
+  - position: None
+    # company_name: GenCoin
+    # company_url: ''
+    # company_logo: ''
+    # date_start: 2021-01-01
+    # date_end: ''
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+    # company_logo: ''
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        url:  https://github.com/
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
+languages:
+  - name: Chinese
+    percent: 100
+  - name: English
+    percent: 70
+
 
 ---
 
-*beep-boop* 
+## Hello there! 👋  Welcome to Weir’s Homepage
+
+I am a graduate student. I am interested in algebraic coding and privacy protection issues in novel scenarios.
+
+
+
+<!-- *beep-boop* 
 
 Hello world 👋 This is **Juin Yau Lim (林俊耀)**. 
 
@@ -98,4 +172,4 @@ Thanks for spending time to understand me! *Ciao*
 **"Now, Good Night. And If There's An Apocalypse, Good Luck!"** 
 by _Sheldon Cooper_ from [The Big Bang Theory](https://www.warnerbros.com/tv/big-bang-theory)
 
-{style="text-align: justify;"}
+{style="text-align: justify;"} -->
