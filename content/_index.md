@@ -57,7 +57,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '1'
        # Choose a layout view   
       # view: date-title-summary
       # # Reduce spacing
