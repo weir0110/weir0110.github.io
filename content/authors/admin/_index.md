@@ -125,7 +125,7 @@ skills:
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 20
         icon: camera
 
 languages:
