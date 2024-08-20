@@ -33,7 +33,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    # align: l
     show_logo: true
     show_language: false
     show_day_night: true
