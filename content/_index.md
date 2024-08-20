@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications
       # text: |-
       #   {{% callout note %}}
       #   You can filter all publications by clicking [here](./publication/).
@@ -31,7 +31,7 @@ sections:
   - block: collection
     id: life
     content:
-      title: Recent Life Snapshot
+      title: Life Snapshot
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
