@@ -27,8 +27,6 @@ organizations:
   - name: XIDIAN UNIVERSITY
     url: https://en.xidian.edu.cn/
 
-# Short bio (displayed in user profile at end of posts)
-bio: Passionate sustainable practitioner that seeks solutions with modern approaches.
 
 # Interests to show in About widget
 interests:
