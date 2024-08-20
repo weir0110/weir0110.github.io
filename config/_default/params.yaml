@@ -33,7 +33,7 @@ marketing:
 header:
   navbar:
     enable: true
-    # align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Juin Yau Lim - {license}'
+    notice: '© {year} Weir. Published with Hugo Blox Builder - {license}'
     license:
       enable: true
       allow_derivatives: false
