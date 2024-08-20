@@ -12,23 +12,37 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     count: 2
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      count: 2
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        You can filter all publications by clicking [here](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
-        featured_only: true
+        exclude_featured: true
     design:
       columns: '2'
-      view: card
+      view: citation
 
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Recent Life Snapshot
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -53,46 +67,32 @@ sections:
       view: compact
       columns: '2'
 
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        You can filter all publications by clicking [here](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
 
-  - block: markdown
-    content:
-      title: Through My Eyes 
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Through My Eyes 
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
       
-  - block: contact
-    id: contact-me
-    content:
-      title: Contact
-      email: juinyau95@gmail.com
-      address:
-        city: Seoul
-        postcode: '136-701'
-        country: South Korea
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.5894'
-        longitude: '127.0325'  
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-    design:
-      columns: '2'
+  # - block: contact
+  #   id: contact-me
+  #   content:
+  #     title: Contact
+  #     email: juinyau95@gmail.com
+  #     address:
+  #       city: Seoul
+  #       postcode: '136-701'
+  #       country: South Korea
+  #     # Choose a map provider in `params.yaml` to show a map from these coordinates
+  #     coordinates:
+  #       latitude: '37.5894'
+  #       longitude: '127.0325'  
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #   design:
+  #     columns: '2'
 ---
