@@ -5,6 +5,27 @@ date: 2024-03-24
 type: landing
 
 sections:
+  - block: resume-biography-3
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
+    design:
+      css_class: light 
+      background:
+        color: white
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: stacked-peaks.svg
+        #   filters:
+        #     brightness: 0.6
+        #   size: cover
+        #   position: center
+        #   parallax: false
   - block: about.biography
     id: about
     content:
