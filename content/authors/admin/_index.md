@@ -55,13 +55,13 @@ social:
     link: '/#contact-me'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/
+    link: https://scholar.google.com/citations?user=6vKIwTgAAAAJ&hl=en#
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jylim8/
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/
+    link: https://orcid.org/0000-0002-2691-4439
   # Link to a PDF of your resume/CV.
   # - icon: cv
   #   icon_pack: ai
