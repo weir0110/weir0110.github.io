@@ -3,7 +3,7 @@ title: Two classes of entanglement-assisted quantum MDS codes from generalized R
 authors:
 - admin
 - Jiantai Li
-date: '2022-017-16'
+date: '2022-07-16'
 publishDate: '2024-08-23T11:36:59.939861Z'
 publication_types:
 - article-journal
