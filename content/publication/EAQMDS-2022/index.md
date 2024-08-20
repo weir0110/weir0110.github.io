@@ -11,7 +11,7 @@ publication: '*Quantum Information Processing*'
 abstract: In this paper, we mainly use generalized Reed–Solomon codes to construct two classes of entanglement-assisted quantum MDS codes.
 
 tags:
-- Co-authors
+- First Author
 featured: false
 
 url_pdf: https://link.springer.com/article/10.1007/s11128-022-03595-6

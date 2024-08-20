@@ -1,12 +1,12 @@
 ---
 # Display name
-title: SHI-ZE WANG
+title: Wei-wei WANG
 
 # Name pronunciation (optional)
-# name_pronunciation:  SHI-ZE WANG
+# name_pronunciation:  Wei-wei WANG
 
 # Full name (for SEO)
-first_name: SHI-ZE
+first_name: Wei-wei
 last_name: WANG
 
 # Status emoji
