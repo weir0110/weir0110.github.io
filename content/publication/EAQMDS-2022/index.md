@@ -3,7 +3,7 @@ title: Entanglement-assisted quantum MDS codes from generalized Reed–Solomon c
 authors:
 - admin
 - Jingtai Liang
-date: '2022-08-21'
+date: '2023-08-21'
 publishDate: '2024-03-23T11:36:59.939861Z'
 publication_types:
 - article-journal
