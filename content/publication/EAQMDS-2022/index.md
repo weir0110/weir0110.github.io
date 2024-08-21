@@ -1,5 +1,5 @@
 ---
-title: Two classes of entanglement-assisted quantum MDS codes from generalized Reed–Solomon codes 
+title: Entanglement-assisted quantum MDS codes from generalized Reed–Solomon codes 
 authors:
 - admin
 - Jiantai Liang
