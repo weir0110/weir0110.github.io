@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Weir's Homepage # Website name
-baseURL: 'http://wweiwei.me/' # Website URL
+baseURL: 'http://wweir.me/' # Website URL
 
 ############################
 ## LANGUAGE
