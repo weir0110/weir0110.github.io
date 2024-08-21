@@ -8,7 +8,7 @@ publishDate: '2024-03-23T11:36:59.939861Z'
 publication_types:
 - article-journal
 publication: '*Quantum Information Processing*'
-abstract: In this paper, we mainly construct two classes of entanglement-assisted quantum MDS codes.
+abstract: In this work, we mainly construct two classes of entanglement-assisted quantum MDS codes.
 
 tags:
 - First Author
