@@ -24,7 +24,7 @@ sections:
         folders:
           - resource
     design:
-      view: card
+      view: compact
       fill_image: false
       columns: 6
 ---
