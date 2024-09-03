@@ -24,7 +24,7 @@ sections:
         folders:
           - resource
     design:
-      view: compact
+      view: article-grid
       fill_image: false
       columns: 6
 ---
