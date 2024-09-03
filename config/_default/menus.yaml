@@ -13,9 +13,9 @@ main:
   - name: Experience
     url: experience/
     weight: 12
-  - name: Resource
-    # url: resource/
-    url: /#resource
+  - name: Resources
+    url: resource/
+    # url: /#resource
     weight: 13
   - name: Life
     url: '#life'
