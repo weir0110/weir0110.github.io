@@ -19,12 +19,12 @@ sections:
   - block: collection
     content:
       title: Selected Resources
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I like to tidy things up. Here are some tools I've added over and over.
       filters:
         folders:
           - resource
     design:
-      view: article-grid
+      view: grid
       fill_image: false
       columns: 6
 ---
