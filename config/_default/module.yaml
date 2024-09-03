@@ -9,6 +9,7 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
   - source: hugo-blox/blox/community
