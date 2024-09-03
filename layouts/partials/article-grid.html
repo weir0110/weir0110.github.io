@@ -1,0 +1,10 @@
+<!-- layouts/partials/article-grid.html -->
+<div class="article-grid">
+    {{ range .Pages }}
+      <div class="article-grid-item">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary }}</p>
+      </div>
+    {{ end }}
+  </div>
+  
