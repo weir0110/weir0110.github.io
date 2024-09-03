@@ -30,7 +30,7 @@ sections:
       view: citation
 
   - block: collection
-    id: life
+    id: lifes
     content:
       title: Life Snapshot
       subtitle: ''

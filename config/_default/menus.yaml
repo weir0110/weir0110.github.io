@@ -18,7 +18,7 @@ main:
     # url: /#resource
     weight: 13
   - name: Life
-    url: '/#life'
+    url: '#lifes'
     weight: 20
   # - name: Publications
   #   url: '#featured'
