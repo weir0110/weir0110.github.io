@@ -68,7 +68,7 @@ features:
     post: true
     project: true
     publication: true
-    talk: true
+    resource: true
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
