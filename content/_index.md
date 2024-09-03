@@ -56,7 +56,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: article-grid
       columns: '2'
        # Choose a layout view   
       # view: date-title-summary
