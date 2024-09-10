@@ -23,8 +23,10 @@ sections:
       filters:
         folders:
           - resource
+        sort_by: date
+        order: desc
     design:
-      view: gallery
+      view: tiles
       fill_image: false
       columns: 6
 ---
