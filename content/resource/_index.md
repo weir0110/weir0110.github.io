@@ -27,6 +27,6 @@ sections:
         order: desc
     design:
       view: tiles
-      fill_image: false
-      columns: 6
+      fill_image: ture
+      columns: 3
 ---
