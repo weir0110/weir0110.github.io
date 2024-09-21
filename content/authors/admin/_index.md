@@ -32,7 +32,7 @@ organizations:
 interests:
   - Algebraic Coding
   - Cryptography
-  - Service computing
+  - Service Computing
   - Privacy Protection
 
 # Education to show in About widget
